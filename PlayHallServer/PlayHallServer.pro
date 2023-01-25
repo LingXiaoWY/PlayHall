@@ -20,10 +20,7 @@ HEADERS += \
     include/clogic.h \
     include/err_str.h \
     include/packdef.h
-
-include(./md5/md5.pri)
-
+    
 INCLUDEPATH += ./include
-INCLUDEPATH += ./md5
 
 LIBS += -lpthread -lmysqlclient
