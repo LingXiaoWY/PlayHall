@@ -1,7 +1,6 @@
 #ifndef CLOGIC_H
 #define CLOGIC_H
 
-#include "md5.h"
 #include"TCPKernel.h"
 #include<string.h>
 
