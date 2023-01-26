@@ -20,7 +20,7 @@
 
 使用客户端时，修改服务器IP地址
 -------------
-<div align=center><img src="https://img.fwfly.com/img/2023/01/25/ib9fj5.png" height="540" width="960"/> </div>
+<div align=center><img src="https://img.fwfly.com/img/2023/01/25/ib9fj5.png" height="520" width="960"/> </div>
 
 MySQL数据库建表信息
 -------------
