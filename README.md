@@ -18,14 +18,9 @@
 -------------
 <div align=center><img src="https://img.fwfly.com/img/2023/01/23/5158p.png" height="765"/> </div>
 
-使用客户端时，修改服务器IP地址
--------------
-<div align=center><img src="https://img.fwfly.com/img/2023/01/25/ib9fj5.png" height="500" width="960"/> </div>
-
 MySQL数据库建表信息
 -------------
 <div align=center><img src="https://img.fwfly.com/img/2023/01/25/ib9m5z.jpg" height="125" width="464"/> </div>
 
 流程图直链网址：https://img9999.wchunge.cn/i/2022/12/08/pjz77i.jpg</br>
 类图直链网址：https://img.fwfly.com/img/2023/01/23/5158p.png</br>
-B站实机演示网址：https://www.bilibili.com/video/BV1w3411D75y/</br>
